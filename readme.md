@@ -12,3 +12,6 @@ This is some comment
 - git remote add origin https://github.com/my_folder
 - git branch -M main
 - git push -u origin main
+
+# Making changes in github and sending to vs code
+- Use the pull command
