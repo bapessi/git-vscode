@@ -15,3 +15,13 @@ This is some comment
 
 # Making changes in github and sending to vs code
 - Use the pull command
+
+# Cloning github repo
+
+- Use command in vs code git:clone
+- Paste the github repo URL
+- Chose a local folder to store the clone
+
+# Branches
+
+- Create new branch on VS code: click on branch name (main) bottom left corner.
