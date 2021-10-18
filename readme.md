@@ -1,14 +1,13 @@
-# This is some serious stuff
+# From VS code to Github
 
-### This is not as serious as before.s
+1. Click initiate repository on VS code source control tab.
+2. On the terminal:
+3. git init project-name
+4. On the source control panel: Click on stage changes
+5. Commit
 
-This is some comment
+## Publishing to github
 
-# A new section because of a new commit
-
-## Important commands
-
-- git log
 - git remote add origin https://github.com/my_folder
 - git branch -M main
 - git push -u origin main
